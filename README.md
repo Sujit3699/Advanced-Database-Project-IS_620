@@ -1,4 +1,4 @@
-# Advanced-Database-Project - Online Food Ordering System
+# Advanced Database Project - Online Food Ordering System
 The primary goal of this project is to design and implement an online food ordering system using Oracle PL/SQL. This project is an academic group project done by University of Maryland , Baltimore County (UMBC) students. 
 
 # Procedure
